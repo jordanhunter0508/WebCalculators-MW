@@ -9,6 +9,7 @@
 <ul>
     <li><a href="hunterTemperature">My First Web Calculator</a></li>
     <li><a href="fraction">Marc's Fraction Calculator</a></li>
+    <li><a href="movies">Movies</a></li>
 </ul>
 
 </body>
